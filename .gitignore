@@ -2,3 +2,6 @@
 .*_cache
 *.egg-info
 dist
+poetry.lock
+._*
+.DS_Store
